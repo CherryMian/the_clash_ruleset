@@ -35,4 +35,4 @@ IP-CIDR,212.58.168.0/21,no-resolve
 
 #KPN SIMYO
 DOMAIN-SUFFIX,epdg.epc.mnc008.mcc204.pub.3gppnetwork.org
-IP-CIDR,62.133.64.0/18
+IP-CIDR,62.133.64.0/18,re-resolve
