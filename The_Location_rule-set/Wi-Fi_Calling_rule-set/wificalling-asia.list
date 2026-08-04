@@ -21,3 +21,7 @@ DOMAIN-SUFFIX,epdg.epc.mnc016.mcc502.pub.3gppnetwork.org
 
 # Dialog
 DOMAIN-SUFFIX,epdg.epc.mnc002.mcc413.pub.3gppnetwork.org
+
+# 菲律宾
+DOMAIN-SUFFIX,epdg.epc.mnc066.mcc515.pub.3gppnetwork.org
+IP-CIDR,131.226.64.0/18,no-resolve
